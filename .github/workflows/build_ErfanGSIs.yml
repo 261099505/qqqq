@@ -5,10 +5,10 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.11.17/miui_VIOLET_20.11.17_5ab70187a1_10.0.zip
+  ROM_URL: https://211-95-34-1.ksyungslb.com/bigota.d.miui.com/20.6.18/miui_MI6X_20.6.18_5810c312a5_9.0.zip?ksy_gslb_referer=https%3A%2F%2Fgithub.com%2FmooseIre%2Fupdate_miui_ota%2Fblob%2Fmaster%2FDevelop%2F%25E5%25B0%258F%25E7%25B1%25B36X.md
   ROM_NAME: MIUI
-  BUILD_AB: false
-  BUILD_AONLY: true
+  BUILD_AB: true
+  BUILD_AONLY: false
   ROM_AONLY: VIOLET_20.11.17_aonly-Q.7z
   ROM_AB: K20P_AB_20.7.16-eu.7z
 
